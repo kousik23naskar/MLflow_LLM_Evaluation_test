@@ -1,0 +1,5 @@
+openai==1.55.1
+pandas
+mlflow==2.17.2
+dagshub
+python-dotenv
